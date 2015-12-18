@@ -1,6 +1,6 @@
 {
     "name": "activelamp/swagger-ui-bundle",
-    "description": "Creates a Swagger UI page in your Symfony2 application",
+    "description": "Creates a Swagger UI page in your Symfony3 application",
     "authors": [
         {
             "name": "Bez Hermoso",
